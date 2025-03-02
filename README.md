@@ -1,3 +1,3 @@
 # first-rep
-This is my first repositry
-Author-Shravan
+This is my First Repository.
+Author - Shravan Reddy
